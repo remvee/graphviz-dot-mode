@@ -237,6 +237,7 @@ is loaded, so changes to this are not immediately visible."
     "plaintext" "diamond" "trapezium" "parallelogram" "house" "hexagon"
     "octagon" "doublecircle" "doubleoctagon" "tripleoctagon" "invtriangle"
     "invtrapezium" "invhouse" "Mdiamond" "Msquare" "Mcircle" "record"
+    "none" "note" "tab" "folder" "box3d" "component"
     "Mrecord" "dashed" "dotted" "solid" "invis" "bold" "filled"
     "diagonals" "rounded" ) 
   "*Keywords for attribute values. This is used by the auto completion
